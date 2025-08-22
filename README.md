@@ -40,7 +40,8 @@ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 
 &nbsp;
 
-**Heute habe ich... (50-100 Wörter)**             
+**Heute habe ich... (50-100 Wörter)**                         
+...
 
 &nbsp;
 
