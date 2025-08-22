@@ -47,6 +47,8 @@ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 - [ ] Mit dem ___ (was wir lernen werden im 335 nächste Woche) anfangen. 
 - [ ] fortfahren mit weiterem Punkt (den wir nöchsten Montag im Modul 335 lernen werden)
 
+      (Arbeitspakete überarbeiten nach Lektion am Montag - Modul 335)
+
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**                         
