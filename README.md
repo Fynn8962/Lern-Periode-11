@@ -35,7 +35,7 @@ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 
 - [ ] Arbeitspaket 1
 - [ ] Arbeitspaket 2
-- [ ] Arbeitspaket 3 
+- [ ] Arbeitspaket 3
 - [ ] Arbeitspaket 4
 
 &nbsp;
