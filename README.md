@@ -5,12 +5,18 @@
 
 ## Grob-Planung
 
-1. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
+**1. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.**
+   Eine mobile App, die Wörter intelligent vervollständigt und so das Tippen schneller und effizienter macht.
    
-3. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.
-4. Beschreiben Sie, welche nicht-technischen Aspekte Sie in diesem Projekt besonders üben möchten.
-5. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?
+**3. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.**
+   //
+   
+**4. Beschreiben Sie, welche nicht-technischen Aspekte Sie in diesem Projekt besonders üben möchten.**
+   Schreiben von Arbeitspaketen als User Story btw. schreiben von issues. 
 
+**5. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?**
+   //
+   
 &nbsp;
 
 
