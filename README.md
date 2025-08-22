@@ -22,9 +22,9 @@
 
 ## 22.08
 
-- [ ] Arbeitspaket 1: Erstellen Sie ein Projekt und beginnen Sie mir ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
-- [ ] Arbeitspaket 2: (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten fügen Sie hier ein weiteres AP ein).
-- [ ] Arbeitspaket 3:
+- [ ] Arbeitspaket 1: Ein Mockup machen wie die Mobil Applikation aussehen könnte. 
+- [ ] Arbeitspaket 2: User Storie erstellen
+- [ ] Arbeitspaket 3: Zu dieser User Storie ein Storyboard
 
  &nbsp;
 
