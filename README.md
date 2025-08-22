@@ -22,14 +22,16 @@
 
 ## 22.08
 
-- [ ] Arbeitspaket 1: Ein Mockup machen wie die Mobil Applikation aussehen könnte. 
-- [ ] Arbeitspaket 2: User Storie erstellen
-- [ ] Arbeitspaket 3: Zu dieser User Storie ein Storyboard
+- [x] Arbeitspaket 1: Ein Mockup machen wie die Mobil Applikation aussehen könnte. 
+- [x] Arbeitspaket 2: User Storie erstellen
+- [x] Arbeitspaket 3: Zu dieser User Storie ein Storyboard
 
  &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**        
-...
+Heute habe ich mir zuerst überlegt, was ich als Projekt machen will. Um mehr Fokus auf das Umsetzen einer Mobilapplikation zu haben, habe ich mich wie empfohlen dazu entschieden ein bereits bestehendes Projekt dafür zu verwenden. Dazu habe ich mich für das Wörtervervollständigen entschieden, welchen ich als Mobil App umsetzen will. 
+
+Da wir im Modul 335 noch nicht so weit sind, um ein Projekt mit Code zu starten, habe ich zuerst ein Mockup erstellt, wie das Layout aussehen könnte. Anschliessend habe ich eine User Story geschrieben und dazu ein Storyboard erstellt. Das Storyboard stellt simpel dar, wie man die Applikation am Schluss dann benutzt. 
 
 &nbsp;
 
@@ -39,10 +41,11 @@ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 
 ## 29.08
 
-- [ ] Arbeitspaket 1
-- [ ] Arbeitspaket 2
-- [ ] Arbeitspaket 3
-- [ ] Arbeitspaket 4
+- [ ] Infrastruktur für das Projekt festlegen (was benötige ich alles)
+
+- [ ] Planen der Umsetzung auf z.B Papier
+- [ ] Mit dem ___ (was wir lernen werden im 335 nächste Woche) anfangen. 
+- [ ] fortfahren mit weiterem Punkt (den wir nöchsten Montag im Modul 335 lernen werden)
 
 &nbsp;
 
