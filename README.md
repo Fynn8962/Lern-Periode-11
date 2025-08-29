@@ -51,7 +51,7 @@ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**                         
-Heute habe ich zuerst meine GitHub Einträge überarbeitet, da diese letztes Mal noch nicht fertig definiert waren. Heute habe ich mir als Ziel gesetzt, 2 Methoden herauszufinden, wie ich eine Mobile-App erstellen kann. Ich habe zuerst anhand eines Tutorial ein kleines Projekt zu .Net MAUI erstellt und anschliessend habe ich nach einer Alternative gesucht, um 2 Arten kennenzulernen. Ich habe das Ionic Framework mir angeschaut, jedoch bin ich mit dem Übungsprojekt dort nicht fertig geworden, da ich mir Zeit genommen habe die Grundlagen in der Dokumentation zu lesen. Nächstes Mal möchte ich mich zwischen den 2 Frameworks entscheiden und mit der Planung anfangen. 
+Heute habe ich zuerst meine GitHub Einträge überarbeitet, da diese letztes Mal noch nicht fertig definiert waren. Heute habe ich mir als Ziel gesetzt, 2 Methoden herauszufinden, wie ich eine Mobile-App erstellen kann. Ich habe zuerst anhand eines Tutorial ein kleines Projekt zu .Net MAUI erstellt und anschliessend habe ich nach einer Alternative gesucht, um 2 Arten kennenzulernen. Ich habe das Expo Framework mir angeschaut, jedoch bin ich mit dem Übungsprojekt dort nicht fertig geworden, da ich mir Zeit genommen habe die Grundlagen in der Dokumentation zu lesen. Nächstes Mal möchte ich mich zwischen den 2 Frameworks entscheiden und mit der Planung anfangen. 
 
 &nbsp;
 
@@ -59,8 +59,8 @@ Heute habe ich zuerst meine GitHub Einträge überarbeitet, da diese letztes Mal
 
 ## 05.09
 
-- [ ] Infrastruktur für das Projekt festlegen (was benötige ich alles)
-- [ ] Planen der Umsetzung auf z.B Papier
+- [ ] Übungsprojekt fertigstellen (*Als Programmierer möchte ich anhand 2 Übungsprojekten in verschiendenen Frameworks testen, welches besser für mein Projekt geeignet ist*)
+- [ ] Entscheiden für ein Framework (MAUI oder Expo?) 
 - [ ] *Als Kunde möchte ich die Infrastruktur übersichtlich aufgelistet und mit erklärung einsehen können, damit ich weis welche Datei für was zuständig ist*
 - [ ] *Als Kunde möchte ich erste Planungen auf Papier sehen um eine Idee der App zu bekommen wie diese aussieht und welche Grundlegenden Funktionen diese hat.*
 
