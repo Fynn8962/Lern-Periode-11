@@ -41,11 +41,11 @@ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 
 ## 29.08
 
+- [ ] Mit .net Maui vertraut machen anhand Übungsprojekt
+- [ ] Alternative für .Maui ausprobieren anhand Übungsprojekt, was ist besser?
 - [ ] Infrastruktur für das Projekt festlegen (was benötige ich alles)
-
 - [ ] Planen der Umsetzung auf z.B Papier
-- [ ] Mit dem ___ (was wir lernen werden im 335 nächste Woche) anfangen. 
-- [ ] fortfahren mit weiterem Punkt (den wir nöchsten Montag im Modul 335 lernen werden)
+
 
       (Arbeitspakete überarbeiten nach Lektion am Montag - Modul 335)
 
