@@ -61,8 +61,8 @@ Heute habe ich zuerst meine GitHub Einträge überarbeitet, da diese letztes Mal
 
 - [ ] Infrastruktur für das Projekt festlegen (was benötige ich alles)
 - [ ] Planen der Umsetzung auf z.B Papier
-- [ ] [Als Kunde möchte ich die Infrastruktur übersichtlich aufgelistet und mit erklärung einsehen können, damit ich weis welche Datei für was zuständig ist]
-- [ ] [Als Kunde möchte ich erste Planungen auf Papier sehen um eine Idee der App zu bekommen wie diese aussieht und welche Grundlegenden Funktionen diese hat.]
+- [ ] *Als Kunde möchte ich die Infrastruktur übersichtlich aufgelistet und mit erklärung einsehen können, damit ich weis welche Datei für was zuständig ist*
+- [ ] *Als Kunde möchte ich erste Planungen auf Papier sehen um eine Idee der App zu bekommen wie diese aussieht und welche Grundlegenden Funktionen diese hat.*
 
 
 &nbsp;
