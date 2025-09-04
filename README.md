@@ -9,13 +9,13 @@
    Eine mobile App, die Wörter intelligent vervollständigt und so das Tippen schneller und effizienter macht.
    
 **3. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.**                 
-   //
+   Da ich mit Expo arbeite muss ich neue Sprachen, libraries wie TypeScript und React lernen. 
    
 **4. Beschreiben Sie, welche nicht-technischen Aspekte Sie in diesem Projekt besonders üben möchten.**                 
    Schreiben von Arbeitspaketen als User Story btw. schreiben von issues. 
 
 **5. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?**                        
-   //
+   Ich arbeite mit Expo an diesem Projekt, für das Modul 335 werde ich MAUI verwenden. Somit erlerne ich beide Möglichkeiten die jeweil auf unterschiedlichen Sprachen aufgebaut    sind
    
 &nbsp;
 
@@ -63,7 +63,7 @@ Für das MAUI Testprojekt habe ich ein Tutorial aus dem Modul 335 erarbeitet. In
 ## 05.09
 
 - [x] Übungsprojekt fertigstellen (*Als Programmierer möchte ich anhand 2 Übungsprojekten in verschiendenen Frameworks testen, welches besser für mein Projekt geeignet ist*)
-- [ ] Entscheiden für ein Framework (MAUI oder Expo?) 
+- [x] Entscheiden für ein Framework (MAUI oder Expo?) 
 - [ ] *Als Kunde möchte ich die Infrastruktur übersichtlich aufgelistet und mit erklärung einsehen können, damit ich weis welche Datei für was zuständig ist*
 - [ ] *Als Kunde möchte ich erste Planungen auf Papier sehen um eine Idee der App zu bekommen wie diese aussieht und welche Grundlegenden Funktionen diese hat.*
 
