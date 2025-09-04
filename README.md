@@ -15,7 +15,7 @@
    Schreiben von Arbeitspaketen als User Story btw. schreiben von issues. 
 
 **5. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?**                        
-   Ich arbeite mit Expo an diesem Projekt, für das Modul 335 werde ich MAUI verwenden. Somit erlerne ich beide Möglichkeiten die jeweil auf unterschiedlichen Sprachen aufgebaut    sind
+  Ich arbeite mit Expo an diesem Projekt, für das Modul 335 werde ich MAUI verwenden. Somit erlerne ich beide Möglichkeiten, die jeweils auf unterschiedlichen Sprachen aufgebaut    sind.
    
 &nbsp;
 
