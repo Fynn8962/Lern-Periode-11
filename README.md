@@ -53,7 +53,7 @@ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 **Heute habe ich... (50-100 Wörter)**                         
 Heute habe ich zuerst meine GitHub Einträge überarbeitet, da diese letztes Mal noch nicht fertig definiert waren. Heute habe ich mir als Ziel gesetzt, 2 Methoden herauszufinden, wie ich eine Mobile-App erstellen kann. Ich habe zuerst anhand eines Tutorial ein kleines Projekt zu .Net MAUI erstellt und anschliessend habe ich nach einer Alternative gesucht, um 2 Arten kennenzulernen. Ich habe das Expo Framework mir angeschaut, jedoch bin ich mit dem Übungsprojekt dort nicht fertig geworden, da ich mir Zeit genommen habe die Grundlagen in der Dokumentation zu lesen. Nächstes Mal möchte ich mich zwischen den 2 Frameworks entscheiden und mit der Planung anfangen. 
 
-[MAUI Testprojekt](https://github.com/Fynn8962/Lern-Periode-11/tree/main/MAUI_Test1)
+**[MAUI Testprojekt](https://github.com/Fynn8962/Lern-Periode-11/tree/main/MAUI_Test1)**                  
 Für das MAUI Testprojekt habe ich ein Tutorial aus dem Modul 335 erarbeitet. In diesem Modul wurde eine To-DO Listen App erstellt für Smartphones. Mittels des Eingabefensters kann man Tätigkeiten hinzufügen und mittels Swipen kann man diese wieder aus der Liste löschen. 
 
 &nbsp;
