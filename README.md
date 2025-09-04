@@ -62,7 +62,7 @@ Für das MAUI Testprojekt habe ich ein Tutorial aus dem Modul 335 erarbeitet. In
 
 ## 05.09
 
-- [ ] Übungsprojekt fertigstellen (*Als Programmierer möchte ich anhand 2 Übungsprojekten in verschiendenen Frameworks testen, welches besser für mein Projekt geeignet ist*)
+- [x] Übungsprojekt fertigstellen (*Als Programmierer möchte ich anhand 2 Übungsprojekten in verschiendenen Frameworks testen, welches besser für mein Projekt geeignet ist*)
 - [ ] Entscheiden für ein Framework (MAUI oder Expo?) 
 - [ ] *Als Kunde möchte ich die Infrastruktur übersichtlich aufgelistet und mit erklärung einsehen können, damit ich weis welche Datei für was zuständig ist*
 - [ ] *Als Kunde möchte ich erste Planungen auf Papier sehen um eine Idee der App zu bekommen wie diese aussieht und welche Grundlegenden Funktionen diese hat.*
@@ -71,7 +71,13 @@ Für das MAUI Testprojekt habe ich ein Tutorial aus dem Modul 335 erarbeitet. In
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**                         
+Zuerst habe ich das Übungsprojekt fertig gemacht. Ich habe, da ich die Applikation umbedingt fertig haben wollte, länger daran gearbeitet als geplant. Dadruch habe ich jetzt eine vollständige erste Expo Applikation was eine gute Vorbereitung war für mein Projekt. Da mir Expo viel mehr Spass gemacht hat als MAUI werde ich für mein Projekt Expo benutzen. Es ist herausfordernder da es neue Sprachen und Frameworks beinhaltet wie z.B TypeScript, React usw., ausserdem ist das direkte Testen auf Mobilgeräten viel einfacher mit "Expo Go".                  
+...           
 
+
+
+**[Expo Testprojekt](https://github.com/Fynn8962/Lern-Periode-11/tree/main/Expo_Test1)**                                          
+Für das Expo Testprojekt habe ich das offizielle [Expo-Tutorial](https://docs.expo.dev/tutorial/create-your-first-app/) für Beginner durchgearbeitet (1-9). Die App besteht daraus, dass man ein Bild aus seiner Galerie auswählen kann. Anschliessend kann man aus einer kleinen Auswahl von Emojis eines auswählen und diesen im Bild mittels Drag-and-drop platzieren. Mittels Doppeltipp kann man das Emoji noch vergrössern und anschliessend das Foto und der Galerie des Handys speichern.
 
 &nbsp;
 
