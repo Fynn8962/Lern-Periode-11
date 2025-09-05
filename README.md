@@ -65,14 +65,14 @@ Für das MAUI Testprojekt habe ich ein Tutorial aus dem Modul 335 erarbeitet. In
 - [x] Übungsprojekt fertigstellen (*Als Programmierer möchte ich anhand 2 Übungsprojekten in verschiendenen Frameworks testen, welches besser für mein Projekt geeignet ist*)
 - [x] Entscheiden für ein Framework (MAUI oder Expo?) 
 - [x] *Als Kunde möchte ich die Infrastruktur übersichtlich aufgelistet und mit erklärung einsehen können, damit ich weis welche Datei für was zuständig ist*
-- [ ] *Als Kunde möchte ich erste Planungen auf Papier sehen um eine Idee der App zu bekommen wie diese aussieht und welche Grundlegenden Funktionen diese hat.*
+- [x] *Als Kunde möchte ich erste Planungen auf Papier sehen um eine Idee der App zu bekommen wie diese aussieht und welche Grundlegenden Funktionen diese hat.*
 
 
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**                         
 Zuerst habe ich das Übungsprojekt fertig gemacht. Ich habe, da ich die Applikation umbedingt fertig haben wollte, länger daran gearbeitet als geplant. Dadruch habe ich jetzt eine vollständige erste Expo Applikation was eine gute Vorbereitung war für mein Projekt. Da mir Expo viel mehr Spass gemacht hat als MAUI werde ich für mein Projekt Expo benutzen. Es ist herausfordernder da es neue Sprachen und Frameworks beinhaltet wie z.B TypeScript, React usw., ausserdem ist das direkte Testen auf Mobilgeräten viel einfacher mit "Expo Go".                                      
-Anschliessend habe ich, da ein Expo Projekt sehr viele Dateien beinhaltet, diese zur Veranschaulichung mir durch eine [Darstellung](https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png) mit Anmerkungen notiert. Somit habe ich eine Übersicht was für was zuständig ist und wie das Projekt am Schluss aufgebaut sein soll.
+Anschliessend habe ich, da ein Expo Projekt sehr viele Dateien beinhaltet, diese zur Veranschaulichung mir durch eine [Darstellung](https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png) mit Anmerkungen notiert. Somit habe ich eine Übersicht was für was zuständig ist und wie das Projekt am Schluss aufgebaut sein soll. Ausserdem habe ich schon eine [Planung](https://github.com/Fynn8962/Lern-Periode-11/tree/main/Skizze) erstellt wie die App aussieht mit Funktionen wie Text Eingeben und Wörter vorhersagen. 
 
 
 
@@ -82,5 +82,15 @@ Für das Expo Testprojekt habe ich das offizielle [Expo-Tutorial](https://docs.e
 &nbsp;
 
 &nbsp;
-Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
+## 12.09
+
+- [ ]  
+- [ ] 
+- [ ]
+- [ ] 
+
+&nbsp;
+
+**Heute habe ich... (50-100 Wörter)**      
 
