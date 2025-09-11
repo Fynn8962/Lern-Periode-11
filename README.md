@@ -102,7 +102,7 @@ Anschliessend habe ich grundlegende Objekte dem Projekt hinzugefügt, wie z.B. d
 Da die Word Prediction, die wir zuvor als Auftrag erstellt haben, in Python geschrieben war, habe ich diese mithilfe von KI in TypeScript umgeschrieben. Anschliessend habe ich den Code [wordPrediction.ts](https://github.com/Fynn8962/word_prediction_app/tree/main/utils)
  dem Projekt in einem neuen Ordner namens "utils" hinzugefügt.
 
-Da es mit TypeScript besser geht, den Text als `.json` einzulesen, habe ich mittels eines KI-generierten [Python-Codes]() die `.txt` in eine `.json` umgewandelt. Dies funktionierte beinahe einwandfrei, jedoch muss die Datei noch ausgebessert werden, da gewisse Sätze falsch oder verschoben aufgeteilt wurden.
+Da es mit TypeScript besser geht, den Text als `.json` einzulesen, habe ich mittels eines KI-generierten [Python-Codes](https://github.com/Fynn8962/Lern-Periode-11/blob/main/txtToJson.py) die `.txt` in eine `.json` umgewandelt. Dies funktionierte beinahe einwandfrei, jedoch muss die Datei noch ausgebessert werden, da gewisse Sätze falsch oder verschoben aufgeteilt wurden.
 
 Als letztes musste ich nur noch die Funktionen des Prediction-Files in meine `index.tsx` importieren und anschliessend mithilfe eines YouTube-Tutorials die Eingabe über die State Hooks der Funktion übergeben und somit in einer <FlatList> die Vorhersagen anzeigen lassen.
 
