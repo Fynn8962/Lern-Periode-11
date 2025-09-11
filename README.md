@@ -85,12 +85,13 @@ Für das Expo Testprojekt habe ich das offizielle [Expo-Tutorial](https://docs.e
 
 ## 12.09
 
-- [ ] Projekt erstellen - *Als Programmierer möchte ich mein Projekt erstellen und alle Grundlegenden Dateien und Codezeilen darin hinzufügen.*
+- [x] Projekt erstellen - *Als Programmierer möchte ich mein Projekt erstellen und alle Grundlegenden Dateien und Codezeilen darin hinzufügen.*
 - [ ] Design - *Als Programmiere möchte ich mit dem Design Anfangen und wichtige Elemente wie das Eingabefeld hinzufügen*
 - [ ] Funktionen 1 - *Als Programmierer will ich die Daten die vom Benutzer eingegeben werden Speichern, damit danach mit diesen gearbeitet werden kann*
 - [ ] Funktionen 2 - *Als Programmierer will ich die eigegebenen Daten durch die vervollständigungs-Methode Automatisch mit passenden Wörtern ergänzen und diese anzeigen.*
 
 &nbsp;
 
-**Heute habe ich... (50-100 Wörter)**      
-
+**Heute habe ich... (50-100 Wörter)**                            
+ALs erstes habe ich mittels `npx create-expo-app@latest` ein neues Expo Projekt erstellt. In diesem habe ich zuerst das example-project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien die ich zuvor in meinem [Struktur-Plan](https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png) aufgezeigt habe.             
+....
