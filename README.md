@@ -93,15 +93,19 @@ Für das Expo Testprojekt habe ich das offizielle [Expo-Tutorial](https://docs.e
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**                            
-ALs erstes habe ich mittels `npx create-expo-app@latest` ein neues Expo Projekt erstellt. In diesem habe ich zuerst das example-project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien die ich zuvor in meinem [Struktur-Plan](https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png) aufgezeigt habe.                     
+Heute habe ich... (50-100 Wörter)
 
-Anschliessend habe ich Grundlegende Objekte dem Projekt hinzugefügt wie z.B die SearchBar, Farben, Tabs usw. Anschliessent habe ich mittels State Hooks dafür gesorgt dass die Eingabe des Benutzers weiter verwendet werden kann. Somit konnte ich dann Anfangen die Predict-Methode einzubinden.     
+Als erstes habe ich mittels npx create-expo-app@latest ein neues Expo Projekt erstellt. In diesem habe ich zuerst das Example-Project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien, die ich zuvor in meinem Struktur-Plan
+ aufgezeigt habe.
 
-Da die Word Prediction die wir zuvor als Auftrag erstellt haben in Python geschrieben war habe ich diese mithilfe von KI in TypeScript umgeschrieben. Anschlissend habe ich den Code [wordPrediction.ts](https://github.com/Fynn8962/word_prediction_app/tree/main/utils) dem Projekt in einem neuen Ordner names "utils" hinzugefügt.     
+Anschliessend habe ich grundlegende Objekte dem Projekt hinzugefügt, wie z.B. die SearchBar, Farben, Tabs usw. Danach habe ich mittels State Hooks dafür gesorgt, dass die Eingabe des Benutzers weiterverwendet werden kann. Somit konnte ich dann anfangen, die Predict-Methode einzubinden.
 
-Da es mit TypeScript besser geht den Text als `.json?` einzulesen, habe ich mittels eines KI generierten Python Code die `.txt` in eine `.json?` umgewandelt. Dies funktionierte beinah einwandfrei, jedoch muss die Datei noch ausgebessert werden denn gewisse Sätze sind falsch oder verschoben aufgeteilt worden.    
+Da die Word Prediction, die wir zuvor als Auftrag erstellt haben, in Python geschrieben war, habe ich diese mithilfe von KI in TypeScript umgeschrieben. Anschliessend habe ich den Code wordPrediction.ts
+ dem Projekt in einem neuen Ordner namens "utils" hinzugefügt.
 
-Als letztes musste ich nur noch die Funktionen des Prediction Files in meine `index.tsx` importieren und anschliessend mithilfe eines youtube-tutorials die Eingabe mithilfe der State Hooks der Funktion übergeben und somit in einer <Flatlist> die vorhersagen anzeigen lassen.  
+Da es mit TypeScript besser geht, den Text als .json? einzulesen, habe ich mittels eines KI-generierten Python-Codes die .txt in eine .json? umgewandelt. Dies funktionierte beinahe einwandfrei, jedoch muss die Datei noch ausgebessert werden, da gewisse Sätze falsch oder verschoben aufgeteilt wurden.
 
-Das bisherige Projekt habe ich hochgeladen, in der nächsten Sitzung möchte ich jedoch die Vorhersage verbessern, da wie gesagt das JSON file noch Probleme aufweist. Anschliessend möchte ich das Design noch verschönern.    
+Als letztes musste ich nur noch die Funktionen des Prediction-Files in meine index.tsx importieren und anschliessend mithilfe eines YouTube-Tutorials die Eingabe über die State Hooks der Funktion übergeben und somit in einer <FlatList> die Vorhersagen anzeigen lassen.
+
+Das bisherige Projekt habe ich hochgeladen. In der nächsten Sitzung möchte ich jedoch die Vorhersage verbessern, da, wie gesagt, das JSON-File noch Probleme aufweist. Anschliessend möchte ich das Design noch verschönern.
 
