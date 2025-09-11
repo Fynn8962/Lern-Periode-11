@@ -37,7 +37,6 @@ Da wir im Modul 335 noch nicht so weit sind, um ein Projekt mit Code zu starten,
 
 &nbsp;
 
-Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
 
 ## 29.08
 
