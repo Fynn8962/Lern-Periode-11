@@ -92,7 +92,6 @@ Für das Expo Testprojekt habe ich das offizielle [Expo-Tutorial](https://docs.e
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**                            
-Heute habe ich... (50-100 Wörter)
 
 Als erstes habe ich mittels `npx create-expo-app@latest` ein neues Expo Projekt erstellt. In diesem habe ich zuerst das Example-Project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien, die ich zuvor in meinem [Struktur-Plan]https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png()
  aufgezeigt habe.
