@@ -127,5 +127,5 @@ Das bisherige [Word-Prediction](https://github.com/Fynn8962/word_prediction_app)
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**               
-
+...
  
