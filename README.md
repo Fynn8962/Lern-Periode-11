@@ -121,11 +121,12 @@ Das bisherige [ord-Prediction](https://github.com/Fynn8962/word_prediction_app) 
 ## 19.09
 
 - [ ] Vorhersage verbessern  - *Als Benutzer möchte ich eine gute, logische und fehlerfreie Vorhersage der Wörter bekommen*
-- [ ] Design verschönern - **
-- [ ] 
-- [ ]
+- [ ] Design verschönern - *Als Benutzer möchte ich eine schönes GUI mit welchem ich ohne Probleme umgehen kann*
+- [ ] Vorhersage anklicken und hinzufügen - *Als Benutzer möchte ich die Vorhersage anklicken können damit diese der Suche hinzugefügt wird*
+- [ ] In Google Suchen - *Als Benutzer möchte ich meine Suche anschliessend in Google suchen*
 
 &nbsp;
 
-**Heute habe ich... (50-100 Wörter)**   
+**Heute habe ich... (50-100 Wörter)**               
 
+ 
