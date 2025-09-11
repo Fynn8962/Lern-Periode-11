@@ -107,6 +107,7 @@ Als letztes musste ich nur noch die Funktionen des Prediction-Files in meine `in
 
 Das bisherige [Word-Prediction](https://github.com/Fynn8962/word_prediction_app) Projekt habe ich hochgeladen. In der nächsten Sitzung möchte ich jedoch die Vorhersage verbessern, da, wie gesagt, das JSON-File noch Probleme aufweist. Anschliessend möchte ich das Design noch verschönern.
 
+
 **Weitere Erweiterungsmöglichkeiten**
 
 - Die Vorhersagen direkt anklicken können damit diese dem Text hinzugefügt werden.
