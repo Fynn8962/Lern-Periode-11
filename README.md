@@ -86,12 +86,22 @@ Für das Expo Testprojekt habe ich das offizielle [Expo-Tutorial](https://docs.e
 ## 12.09
 
 - [x] Projekt erstellen - *Als Programmierer möchte ich mein Projekt erstellen und alle Grundlegenden Dateien und Codezeilen darin hinzufügen.*
-- [ ] Design - *Als Programmiere möchte ich mit dem Design Anfangen und wichtige Elemente wie das Eingabefeld hinzufügen*
-- [ ] Funktionen 1 - *Als Programmierer will ich die Daten die vom Benutzer eingegeben werden Speichern, damit danach mit diesen gearbeitet werden kann*
-- [ ] Funktionen 2 - *Als Programmierer will ich die eigegebenen Daten durch die vervollständigungs-Methode Automatisch mit passenden Wörtern ergänzen und diese anzeigen.*
+- [x] Design - *Als Programmiere möchte ich mit dem Design Anfangen und wichtige Elemente wie das Eingabefeld hinzufügen*
+- [x] Funktionen 1 - *Als Programmierer will ich die Daten die vom Benutzer eingegeben werden Speichern, damit danach mit diesen gearbeitet werden kann*
+- [x] Funktionen 2 - *Als Programmierer will ich die eigegebenen Daten durch die vervollständigungs-Methode Automatisch mit passenden Wörtern ergänzen und diese anzeigen.*
 
 &nbsp;
 
 **Heute habe ich... (50-100 Wörter)**                            
-ALs erstes habe ich mittels `npx create-expo-app@latest` ein neues Expo Projekt erstellt. In diesem habe ich zuerst das example-project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien die ich zuvor in meinem [Struktur-Plan](https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png) aufgezeigt habe.             
-....
+ALs erstes habe ich mittels `npx create-expo-app@latest` ein neues Expo Projekt erstellt. In diesem habe ich zuerst das example-project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien die ich zuvor in meinem [Struktur-Plan](https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png) aufgezeigt habe.                     
+
+Anschliessend habe ich Grundlegende Objekte dem Projekt hinzugefügt wie z.B die SearchBar, Farben, Tabs usw. Anschliessent habe ich mittels State Hooks dafür gesorgt dass die Eingabe des Benutzers weiter verwendet werden kann. Somit konnte ich dann Anfangen die Predict-Methode einzubinden.     
+
+Da die Word Prediction die wir zuvor als Auftrag erstellt haben in Python geschrieben war habe ich diese mithilfe von KI in TypeScript umgeschrieben. Anschlissend habe ich den Code [wordPrediction.ts](https://github.com/Fynn8962/word_prediction_app/tree/main/utils) dem Projekt in einem neuen Ordner names "utils" hinzugefügt.     
+
+Da es mit TypeScript besser geht den Text als `.json?` einzulesen, habe ich mittels eines KI generierten Python Code die `.txt` in eine `.json?` umgewandelt. Dies funktionierte beinah einwandfrei, jedoch muss die Datei noch ausgebessert werden denn gewisse Sätze sind falsch oder verschoben aufgeteilt worden.    
+
+Als letztes musste ich nur noch die Funktionen des Prediction Files in meine `index.tsx` importieren und anschliessend mithilfe eines youtube-tutorials die Eingabe mithilfe der State Hooks der Funktion übergeben und somit in einer <Flatlist> die vorhersagen anzeigen lassen.  
+
+Das bisherige Projekt habe ich hochgeladen, in der nächsten Sitzung möchte ich jedoch die Vorhersage verbessern, da wie gesagt das JSON file noch Probleme aufweist. Anschliessend möchte ich das Design noch verschönern.    
+
