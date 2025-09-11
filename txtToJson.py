@@ -1,3 +1,5 @@
+#KI generiert mit Claude Sonnet 4
+
 import json
 import re
 import os
@@ -199,4 +201,5 @@ if __name__ == "__main__":
     if os.path.exists(all_sentences_file):
         print(f"   📄 {all_sentences_file}")
     if os.path.exists(unique_sentences_file):
+
         print(f"   📄 {unique_sentences_file}")
