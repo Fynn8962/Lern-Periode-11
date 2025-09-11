@@ -95,17 +95,37 @@ Für das Expo Testprojekt habe ich das offizielle [Expo-Tutorial](https://docs.e
 **Heute habe ich... (50-100 Wörter)**                            
 Heute habe ich... (50-100 Wörter)
 
-Als erstes habe ich mittels npx create-expo-app@latest ein neues Expo Projekt erstellt. In diesem habe ich zuerst das Example-Project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien, die ich zuvor in meinem Struktur-Plan
+Als erstes habe ich mittels `npx create-expo-app@latest` ein neues Expo Projekt erstellt. In diesem habe ich zuerst das Example-Project gelöscht und anschliessend meine eigene Struktur aufgebaut. Diese besteht aus den Ordnern und Dateien, die ich zuvor in meinem [Struktur-Plan]https://github.com/Fynn8962/Lern-Periode-11/blob/main/Skizze/Projektstruktur.png()
  aufgezeigt habe.
 
 Anschliessend habe ich grundlegende Objekte dem Projekt hinzugefügt, wie z.B. die SearchBar, Farben, Tabs usw. Danach habe ich mittels State Hooks dafür gesorgt, dass die Eingabe des Benutzers weiterverwendet werden kann. Somit konnte ich dann anfangen, die Predict-Methode einzubinden.
 
-Da die Word Prediction, die wir zuvor als Auftrag erstellt haben, in Python geschrieben war, habe ich diese mithilfe von KI in TypeScript umgeschrieben. Anschliessend habe ich den Code wordPrediction.ts
+Da die Word Prediction, die wir zuvor als Auftrag erstellt haben, in Python geschrieben war, habe ich diese mithilfe von KI in TypeScript umgeschrieben. Anschliessend habe ich den Code [wordPrediction.ts](https://github.com/Fynn8962/word_prediction_app/tree/main/utils)
  dem Projekt in einem neuen Ordner namens "utils" hinzugefügt.
 
-Da es mit TypeScript besser geht, den Text als .json? einzulesen, habe ich mittels eines KI-generierten Python-Codes die .txt in eine .json? umgewandelt. Dies funktionierte beinahe einwandfrei, jedoch muss die Datei noch ausgebessert werden, da gewisse Sätze falsch oder verschoben aufgeteilt wurden.
+Da es mit TypeScript besser geht, den Text als `.json` einzulesen, habe ich mittels eines KI-generierten Python-Codes die `.txt` in eine `.json` umgewandelt. Dies funktionierte beinahe einwandfrei, jedoch muss die Datei noch ausgebessert werden, da gewisse Sätze falsch oder verschoben aufgeteilt wurden.
 
-Als letztes musste ich nur noch die Funktionen des Prediction-Files in meine index.tsx importieren und anschliessend mithilfe eines YouTube-Tutorials die Eingabe über die State Hooks der Funktion übergeben und somit in einer <FlatList> die Vorhersagen anzeigen lassen.
+Als letztes musste ich nur noch die Funktionen des Prediction-Files in meine `index.tsx` importieren und anschliessend mithilfe eines YouTube-Tutorials die Eingabe über die State Hooks der Funktion übergeben und somit in einer <FlatList> die Vorhersagen anzeigen lassen.
 
-Das bisherige Projekt habe ich hochgeladen. In der nächsten Sitzung möchte ich jedoch die Vorhersage verbessern, da, wie gesagt, das JSON-File noch Probleme aufweist. Anschliessend möchte ich das Design noch verschönern.
+Das bisherige [ord-Prediction](https://github.com/Fynn8962/word_prediction_app) Projekt habe ich hochgeladen. In der nächsten Sitzung möchte ich jedoch die Vorhersage verbessern, da, wie gesagt, das JSON-File noch Probleme aufweist. Anschliessend möchte ich das Design noch verschönern.
+
+**Weitere Erweiterungsmöglichkeiten**
+
+- Die Vorhersagen direkt anklicken können damit diese dem Text hinzugefügt werden.
+- (wenn möglich) Die Eingegebenen Worte direkt in Google suchen. 
+
+&nbsp;
+
+&nbsp;
+
+## 19.09
+
+- [ ] Vorhersage verbessern  - *Als Benutzer möchte ich eine gute, logische und fehlerfreie Vorhersage der Wörter bekommen*
+- [ ] Design verschönern - **
+- [ ] 
+- [ ]
+
+&nbsp;
+
+**Heute habe ich... (50-100 Wörter)**   
 
