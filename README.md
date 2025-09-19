@@ -130,6 +130,8 @@ Das bisherige [Word-Prediction](https://github.com/Fynn8962/word_prediction_app)
 **Heute habe ich... (50-100 Wörter)**               
 Heute wollte ich an meiner Mobile App weiterarbeiten. Ich kam jedoch nicht voran und konnte die Aufgaben, die ich mir gestellt habe, nicht vollständig erledigen. Dadurch habe ich mich dazu entschieden, auf LeetCode Codeprobleme zu lösen, damit ich wenigstens etwas erreicht habe. Ich habe mithilfe von Stift und Papier das pascal triangle gelöst und anschliessend dies in Code umgesetzt.
 
+Gelöste Aufgaben: [LeetCode Profil](https://leetcode.com/u/savty/)
+
 &nbsp;
 
 &nbsp;
