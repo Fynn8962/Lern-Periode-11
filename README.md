@@ -6,7 +6,7 @@
 ## Grob-Planung
 
 **1. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.**                 
-   Eine mobile App, die Wörter intelligent vervollständigt und so das Tippen schneller und effizienter macht.
+   Eine mobile App, die Sätze intelligent vervollständigt und so das Tippen schneller und effizienter macht.
    
 **3. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.**                 
    Da ich mit Expo arbeite muss ich neue Sprachen, libraries wie TypeScript und React lernen. 
