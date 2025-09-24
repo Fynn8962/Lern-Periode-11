@@ -138,13 +138,19 @@ Gelöste Aufgaben: [LeetCode Profil](https://leetcode.com/u/savty/)
 
 ## 26.09
 
-- [ ] Vorhersage verbessern  - *Als Benutzer möchte ich eine gute, logische und fehlerfreie Vorhersage der Wörter bekommen*
-- [ ] Design verschönern - *Als Benutzer möchte ich eine schönes GUI mit welchem ich ohne Probleme umgehen kann*
-- [ ] Vorhersage anklicken und hinzufügen - *Als Benutzer möchte ich die Vorhersage anklicken können damit diese der Suche hinzugefügt wird*
-- [ ] In Google Suchen - *Als Benutzer möchte ich meine Suche anschliessend in Google suchen*
+- [x] Vorhersage verbessern  - *Als Benutzer möchte ich eine gute, logische und fehlerfreie Vorhersage der Wörter bekommen*
+- [x] Design verschönern - *Als Benutzer möchte ich eine schönes GUI mit welchem ich ohne Probleme umgehen kann*
+- [x] Vorhersage anklicken und hinzufügen - *Als Benutzer möchte ich die Vorhersage anklicken können damit diese der Suche hinzugefügt wird*
+- [x] In Google Suchen - *Als Benutzer möchte ich meine Suche anschliessend in Google suchen*
 
 &nbsp;
 
-**Heute habe ich... (50-100 Wörter)**               
-...
+**Heute habe ich... (50-100 Wörter)**                      
+Da der KI generiert Python Code `txtToJson.py` nicht richtig funktionierte und somit die Sätze fehlerhaft unterteilt wurden, musste ich einen neuen Code generieren lassen. Durch genauere Promts wurde dieses Mal brauchbarer Python Code und somit ein Fehlerfreies JSON File erstellt, mit richtig abgetrennten Sätzen. Dadurch waren die vorhergesagten Wörter fehlerfrei.             
+
+Anschliessend habe ich die Flatlist in welcher die Vorhersagen angezeigt werden verbessert, damit man die vorhergesagten Wörter anklicken kann. Nach anklicken werden die Wörter zu der Searchbar hinzugefügt. Als dies Fehlerfrei funktioniert hat, habe ich das Design verbessert und verschönert. 
+
+Als zusätzliches Feature habe ich mithilfe von Claude.ai hinzugefügt, dass das eingegebene direkt in Google gesucht werden kann. Der Benutzer wird bei erster Suche zuerst gefragt, ob google benutzt werden darf., wenn erlaubt, öffnet sich die Google App oder der Browser.
+
+
  
