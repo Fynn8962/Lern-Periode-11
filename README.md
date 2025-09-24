@@ -153,4 +153,8 @@ Anschliessend habe ich die Flatlist in welcher die Vorhersagen angezeigt werden 
 Als zusätzliches Feature habe ich mithilfe von Claude.ai hinzugefügt, dass das eingegebene direkt in Google gesucht werden kann. Der Benutzer wird bei erster Suche zuerst gefragt, ob google benutzt werden darf., wenn erlaubt, öffnet sich die Google App oder der Browser.
 
 
- 
+ ## Reflexion   
+ ...
+
+ ## Mein Projekt             
+ [Word-Prediction](https://github.com/Fynn8962/word_prediction_app)
