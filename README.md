@@ -160,5 +160,5 @@ Als zusätzliches Feature habe ich mithilfe von Claude.ai hinzugefügt, dass das
 &nbsp;
 
  ## Reflexion   
- ...
+ In dieser Lernperiode habe ich zum ersten Mal mit dem Expo Framework gearbeitet, mithilfe dessen ich eine Mobile App erstellt habe. Das Erstellen einer Mobile App hat mir überraschend viel Spass gemacht, vor allem in Zusammenhang mit einer neuen Technologie wie Expo. Da ich zuvor keine TypeScript, React oder sonstige Kenntnisse hatte, war gefühlt alles Neuland für mich. Doch genau das hat mich motiviert, daran weiterzuarbeiten und mehr zu lernen. 
 
