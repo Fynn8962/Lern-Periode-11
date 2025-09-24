@@ -1,6 +1,9 @@
 # Lernperiode 11
 22.8 bis 26.9.2024
 
+ ## Mein Projekt             
+ [Word-Prediction](https://github.com/Fynn8962/word_prediction_app)
+
 &nbsp;
 
 ## Grob-Planung
@@ -159,5 +162,3 @@ Als zusätzliches Feature habe ich mithilfe von Claude.ai hinzugefügt, dass das
  ## Reflexion   
  ...
 
- ## Mein Projekt             
- [Word-Prediction](https://github.com/Fynn8962/word_prediction_app)
